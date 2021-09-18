@@ -24,5 +24,6 @@ int main() {
       }
     }
   } while (pilihanMenu != 3);
+  printf("terima kasih karena telah menjalankan program!\n");
   return 0;
 }
